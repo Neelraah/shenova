@@ -1,0 +1,11 @@
+patient_id,prediction,prediction_label,confidence
+PAT-001,1,Positive,98.81
+PAT-002,1,Positive,97.45
+PAT-003,1,Positive,97.86
+PAT-004,1,Positive,77.81
+PAT-005,1,Positive,73.57
+PAT-006,1,Positive,67.41
+PAT-007,1,Positive,94.07
+PAT-008,0,Negative,94.95
+PAT-009,0,Negative,72.47
+PAT-010,0,Negative,87.65
