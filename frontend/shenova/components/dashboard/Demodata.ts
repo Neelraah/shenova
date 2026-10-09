@@ -13,7 +13,14 @@ export const recentAnalyses = [
     model: "SHENOVA Breast Cancer Risk Model",
     status: "Completed",
     date: "08 Oct 2026",
+    prediction: "Benign",
+    confidence: 94.7,
+    records: 569,
+    features: 30,
+    inferenceTime: "2.84s",
+    encryption: "CKKS",
   },
+
   {
     id: "AN-002",
     name: "Breast Cancer Analysis",
@@ -21,14 +28,27 @@ export const recentAnalyses = [
     model: "SHENOVA Breast Cancer Risk Model",
     status: "Completed",
     date: "07 Oct 2026",
+    prediction: "Malignant",
+    confidence: 88.6,
+    records: 412,
+    features: 30,
+    inferenceTime: "2.61s",
+    encryption: "CKKS",
   },
+
   {
     id: "AN-003",
-    name: "Patient Risk Analysis",
+    name: "Breast Cancer Analysis",
     dataset: "patient_risk_demo.csv",
     model: "SHENOVA Breast Cancer Risk Model",
     status: "Completed",
     date: "06 Oct 2026",
+    prediction: "Benign",
+    confidence: 91.8,
+    records: 287,
+    features: 30,
+    inferenceTime: "2.47s",
+    encryption: "CKKS",
   },
 ];
 
