@@ -1,3 +1,5 @@
+# Import standard libraries for CSV handling, JSON processing,
+# file operations, and unique identifier generation.
 import csv
 import io
 import json
