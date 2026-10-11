@@ -7,6 +7,7 @@ const navItems = [
   { label: "Workflow", href: "/#workflow" },
   { label: "Architecture", href: "/#architecture" },
   { label: "Metrics", href: "/#metrics" },
+  { label: "Help", href: "/help" },
   { label: "Dashboard", href: "/dashboard" },
 ];
 
